@@ -1,0 +1,38 @@
+body {
+    background-color: #A0C4FF; /* Um azul suave para o fundo */
+    font-family: 'Varela Round', sans-serif; /* A fonte arredondada */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #ffffff; /* Fundo branco para a caixa do conteúdo */
+    padding: 30px 40px;
+    border-radius: 25px; /* Bordas bem arredondadas, bem fofas */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    text-align: center;
+    max-width: 650px;
+    width: 90%;
+}
+
+h1 {
+    color: #4C5784; /* Um azul escuro para o título */
+    font-size: 2.5em; /* Tamanho do título */
+    margin-bottom: 10px;
+}
+
+.learning-text {
+    font-size: 1.5em; /* Tamanho da fonte do texto de aprendizado */
+    color: #FF6B6B; /* Cor rosa claro para o texto */
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.video-principal {
+    width: 100%;
+    border-radius: 15px; /* Bordas arredondadas para o vídeo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
